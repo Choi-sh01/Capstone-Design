@@ -63,6 +63,9 @@
 - VS Code / IntelliJ (개발 환경)
 
 ---
+### 시연 동영상
+[![한림대학교 졸업자가진단 웹 앱 시연 영상](https://img.youtube.com/vi/ktFZfJ3LUmM/0.jpg)](https://www.youtube.com/watch?v=ktFZfJ3LUmM)
+---
 
 ### 프로젝트 구조도
 ![캡스톤디자인_최종](https://github.com/user-attachments/assets/985262b1-af51-4fd0-a64c-75f6a49ba25b)
