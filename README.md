@@ -39,29 +39,35 @@
 ## 🧑‍💻 주요 기술 스택
 
 ### 🖥️ Frontend
-- React
-- HTML / CSS / JavaScript
-- Figma (와이어프레임 설계)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+
 
 ### 🧠 Backend
-- Spring Boot (Java)
-- Spring Data JPA
-- Embedded Tomcat
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
 
 ### 🗄️ Database
-- MySQL
-- AWS RDS
-- ERD 기반 설계
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20RDS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/ERD--dbdiagram.io-%237A42F2.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+
+
 
 ### 🌐 인프라 / 배포
-- AWS EC2 (서버 배포)
-- Nginx (리버스 프록시 & 정적 리소스 서빙)
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+ 
 
 ### 🧰 기타 도구
-- GitHub (협업 및 버전 관리)
-- Notion (프로젝트 진행 일지)
-- VS Code / IntelliJ (개발 환경)
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
+---
+### 시연 동영상
+[![한림대학교 졸업자가진단 웹 앱 시연 영상](https://img.youtube.com/vi/ktFZfJ3LUmM/0.jpg)](https://www.youtube.com/watch?v=ktFZfJ3LUmM)
 ---
 
 ### 프로젝트 구조도
